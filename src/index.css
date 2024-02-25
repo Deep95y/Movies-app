@@ -1,0 +1,664 @@
+
+.movies1 {
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+.action {
+    height: 150px;
+    width: 150px;
+    display: flex;
+    background: orange;
+    border-radius: 12px;
+    border-style: solid;
+    box-sizing: 3px;
+    border-color: green;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+
+.image1{ 
+    height: 100px;
+    width: 100px;
+    margin-top: 35px;
+    
+}
+
+.image2{ 
+    height: 100px;
+    width: 100px;
+    margin-top: 35px;
+}
+
+.drama {
+    height: 150px;
+    width: 150px;
+    display: flex;
+    background: #D7A4FF;
+    border-radius: 12px;
+    border-style: solid;
+    box-sizing: 3px;
+    box-shadow: none;
+    border-style: none;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+
+.drama:hover {
+    border-color: green;
+}
+
+.drama {
+    height: 150px;
+    width: 150px;
+    display: flex;
+    background: #D7A4FF;
+    border-radius: 12px;
+    border-style: solid;
+    box-sizing: 3px;
+    box-shadow: none;
+    border-style: none;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.drama:hover {
+    border-color: green;
+}
+
+.image3{ 
+    height: 100px;
+    width: 100px;
+    margin-top: 35px;
+    
+}
+
+.Romance {
+    height: 150px;
+    width: 150px;
+    display: flex;
+    background:#148A08;;
+    border-radius: 12px;
+    border-style: solid;
+    box-sizing: 3px;
+    box-shadow: none;
+    border-style: none;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.romance:hover {
+    border-color: green;
+}
+
+.movies2 {
+    display: flex;
+    flex-direction: row;
+}
+
+.Thriller {
+    height: 150px;
+    width: 150px;
+    display: flex;
+    background: #84C2FF;
+    border-radius: 12px;
+    border-style: solid;
+    box-sizing: 3px;
+    box-shadow: none;
+    border-style: none;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.image4{ 
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    margin-bottom: 10px;
+    
+}
+
+ .Western {
+        height: 150px;
+        width: 150px;
+        display: flex;
+        background: #902500;
+        border-radius: 12px;
+        border-style: solid;
+        box-sizing: 3px;
+        box-shadow: none;
+        border-style: none;
+        margin-left: 10px;
+        margin-top: 10px;
+}
+    
+
+    .image5{ 
+        height: 100px;
+        width: 100px;
+        margin: auto;
+        margin-bottom: 10px;
+    
+    }
+
+    .Horror {
+        height: 150px;
+        width: 150px;
+        display: flex;
+        background: #7358FF;
+        border-radius: 12px;
+        border-style: solid;
+        box-sizing: 3px;
+        box-shadow: none;
+        border-style: none;
+        margin-left: 10px;
+        margin-top: 10px;
+}
+
+    .image6{ 
+        height: 100px;
+        width: 100px;
+        margin: auto;
+        margin-bottom: 10px;
+        margin-right: 10px;
+
+    }
+    
+    .text{
+        color: #fff;
+        text-align: left;
+        margin-left: 5px;
+        margin-top: 5px;
+    }
+
+    .fantacy {
+        height: 150px;
+        width: 150px;
+        display: flex;
+        background: #FF4ADE;
+        border-radius: 12px;
+        border-style: solid;
+        box-sizing: 3px;
+        box-shadow: none;
+        border-style: none;
+        margin-left: 10px;
+        margin-top: 10px;
+}
+
+    .image7{ 
+        height: 100px;
+        width: 100px;
+        margin: auto;
+        margin-bottom: 10px;
+        margin-right: 10px;
+        
+    }
+
+    .music {
+        height: 150px;
+        width: 150px;
+        display: flex;
+        background: #E61E32;
+        border-radius: 12px;
+        border-style: solid;
+        box-sizing: 3px;
+        box-shadow: none;
+        border-style: none;
+        margin-left: 10px;
+        margin-top: 10px;
+}
+
+    .image8{ 
+        height: 100px;
+        width: 100px;
+        margin: auto;
+        margin-bottom: 10px;
+        margin-right: 10px;
+    
+    }
+
+    .fiction {
+        height: 150px;
+        width: 150px;
+        display: flex;
+        background: #6CD061;
+        border-radius: 12px;
+        border-style: solid;
+        box-sizing: 3px;
+        box-shadow: none;
+        border-style: none;
+        margin-left: 10px;
+        margin-top: 10px;
+}
+
+    .image9{ 
+        height: 100px;
+        width: 100px;
+        margin-top: 35px;
+        
+    }
+
+    .movies3 {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .container {
+        display: flex;
+        flex-direction: column;
+        height: 500px;
+        width: 500px;
+        background: #0f3052;
+        
+    }
+
+    .main-cotainer {
+        height: 100%;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+    }
+
+    .right-part {
+        
+        display: flex;
+        background: #84C2FF;
+        margin-left: 40%;
+        flex-direction: column;
+    }
+
+    .superapp {
+        margin-top: 10%;
+        margin-left: 10%;
+    }
+
+    p{
+        color: green;
+        font-family: Roboto;
+        font-size: 50px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 130%; /* 94.988px */
+        margin-left: 10%;
+    }
+
+    .left-part {
+        
+        display: flex;
+        flex-direction: column;
+    }
+
+    .button1 {
+        height: 30px;
+        width: 150px;
+        border-radius: 20px;
+        background: #148A08;
+        color: #fff;
+       display: flex;
+       flex-direction: row;
+    
+    }
+
+    
+
+    .buttons1{
+        display: flex;
+        flex-direction: row;
+    }
+
+ 
+    .shift{
+        margin-left: 20%;
+        margin-top: 5%;
+    }
+
+    .button-group {
+        margin-left: 30%;
+    }
+
+#warning {
+        color: red;
+        margin-left: 30%;
+        margin-top: 10%;
+        display: none;
+    }
+
+    .cross {
+        margin-left: 30px;
+    }
+
+    .next{
+        height: 30px;
+        width: 100px;
+        color: #fff;
+        background: #148A08;
+        margin-top: 40px;
+        margin-left: 80%;
+        border-radius: 20px;
+    }
+
+    .full-container {
+        height: 100%;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+    }
+
+    .leftside-container {
+        width: 50%;
+    }
+
+    .rightside-container {
+        width:50%;
+        align-items: right;
+        margin-left: 10%;
+    }
+
+    .singimg {
+        height: 800px;
+        width: 1000px;
+        color: #fff;
+    }
+
+    .account{
+        margin-left: 13%;
+        font-family: "DM Sans";
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 139.688%; /* 34.922px */
+    }
+
+    .input {
+        height: 40px;
+        width: 250px;
+        border-radius: 3.816px;
+        background: #292929;
+        margin-left: 12%;
+        margin-top: 10px;
+        color: #fff;
+    }
+    #errors{
+        color: red;
+        font-size: larger;
+        align-content: center;
+        font-weight: 500;
+    }
+
+    .checkbox {
+        margin-left: 10%;
+        margin-top: 20px;
+    }
+
+    .signup{
+        height: 40px;
+        width: 260px;
+        border-radius: 20px;
+        background: #148A08;
+        margin-left: 12%;
+        margin-top: 30px;
+        color: #fff;
+    }
+
+    .text1{
+        margin-top: 50px;
+        margin-left: 80px;
+       
+    }
+
+    .text3 {
+        color: #148A08;
+        
+    }
+
+    .text4{
+        color: #148A08;
+    }
+
+    h3{
+        margin-left: 10%;
+    }
+
+    .group1{
+        display: flex;
+        flex-direction: row;
+    }
+
+    .group2{
+        display: flex;
+        flex-direction: row;
+        margin-top: 30px;
+    }
+
+    .img1{
+        height: 200px;
+        width: 200px;
+        margin-left: 170px;
+    }
+
+    .img2{
+        height: 200px;
+        width: 200px;
+        margin-left: 40px;
+    }
+
+    .image-group{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .start{
+        width: 60px;
+        height: 30px;
+        color: green;
+        margin-left: 40%;
+        margin-top: 2%;
+    }
+
+    .pause{
+        width: 60px;
+        height: 30px;
+        color: green;
+        margin-left: 1%;
+        margin-top: 2%;
+    }
+
+    .startplay{
+        display: flex;
+        flex-direction: row;
+    }
+    .progressbar{
+        max-width: 100px;
+        margin: 0 auto;
+        text-align: center;
+        padding-top: 50px;
+    }
+
+.timer{
+    margin-top: 30%;
+}
+
+.weatherinfo{
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    height: 600px;
+    width: 660px;
+    margin-bottom: 8rem;
+    margin-left: 80px;
+    border-radius: 16px;
+    
+}
+
+.top-info{
+    display: flex;
+    background: pink;
+    color: #0f3052;
+    height: 100px;
+}
+
+.bottom-info{
+    display: flex;
+    flex-direction: row;
+}
+
+.speed-time{
+    display: flex;
+    flex-direction: column;
+}
+.temp-press{
+    display: flex;
+    flex-direction: column;
+}
+
+.everest{
+    height: 700px;
+    width: 500px;
+    align-items: right;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.everest-pic{
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    width: 400px;
+    margin-left: 100%;
+    float: top;
+    margin-top: 50px;
+    border-style: none; 
+    border-radius: 20px;
+}
+.everest-text{
+    width: 400px;
+    height: 600px;
+    color: black;
+    margin-left: 100%;
+    background:#fff;
+    font-size: 20px;
+}
+
+.browse-button{
+    background: #148A08;
+    color:#fff;
+    width: 150px;
+    height: 40px;
+    float: right;
+    margin-top: 40%;
+    margin-right: 20%;
+}
+
+/* .weatherinfo{
+    height: 200px;
+    width: 400px;
+    background: #7358FF;
+    display: flex;
+    flex-direction: column;
+} */
+.top-info{
+    background: lightcoral;
+    height: 60px;
+}
+.bottom-info{
+    height: 140px;
+    background: #7358FF;
+    display: flex;
+    flex-direction: row;
+}
+.Weathercode{
+    color: #fff;
+}
+.temp-press{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.speed-time{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.weather-img{
+    margin-top: 10px;
+}
+.newdate{
+    margin-top: 20px;
+    margin-left: 90px;
+    color: #0f3052;
+    font-size: larger;
+    font-weight: 500;
+    
+}
+.weather{
+    margin-left: 30px;
+}
+.time{
+    
+    display: flex;
+    height: 40px;
+    width: 150px;
+    background: #6CD061;
+}
+.time-buttons{
+    margin-left: 80px;
+    
+}
+.circle{
+    margin-left: 20px;
+}
+.timer-grp{
+    display: flex;
+    flex-direction: row;
+}
+.notes-area{
+    background: #F1C75B;
+    color: black;
+    height: 800px;
+    width: 500px;
+    margin: auto;
+    border-style: none;
+    border-radius: 16px;
+    
+}
+.userpage{
+    height: 500px;
+    width: 670px;
+    background: #7358FF;
+    color: #fff;
+    text-align: right;
+    float: left;
+    border-style: none;
+    border-radius: 14px;
+    margin-left: 5rem;
+    margin-top: 10rem;
+}
+.snow{
+height: 300px;
+width: 200px;
+float: left;
+margin-top: 20px;
+margin-left: 20px;
+}
+.genre{
+    float:left;
+}
+.dep{
+    border-radius: 20px;
+    border-color: #0f3052;
+    height: 150px;
+    width: 150px;
+    background-color: #84C2FF;
+    float: right;
+}
+.profile{
+    height: 150px;
+    width: 150px;
+
+}
+#name{
+    background: #9F94FF;
+    
+}
